@@ -3,3 +3,9 @@
  User can add any photo but with valid URL and complete description. 
  <h2> The first Page </h2>
  <img src="first.png" height=500px width=617.6px>
+ <h3> How it works? </h3>
+ <video width="400" controls>
+  <source src="20200713_193021.mp4" type="video/mp4">
+ 
+</video>
+
