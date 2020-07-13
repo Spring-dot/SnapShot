@@ -4,7 +4,7 @@
  <h2> The first Page </h2>
  <img src="first.png" height=500px width=617.6px>
  <h3> How it works? </h3>
- <video width="400" controls>
+ <video width="500" controls>
   <source src="20200713_193021.mp4" type="video/mp4">
  
 </video>
