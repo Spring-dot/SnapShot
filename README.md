@@ -4,5 +4,5 @@
  <h2> The first Page </h2>
  <img src="first.png" height=500px width=617.6px>
  <h3> It's Working: </h3>
- ![Alt Text](working.gif)
+ ![Alt Text](https://github.com/Spring-dot/SnapShot/blob/master/working.gif)
 
