@@ -4,7 +4,5 @@
  <h2> The first Page </h2>
  <img src="first.png" height=500px width=617.6px>
  <h3> It's Working: </h3>
- <video autoplay controls> 
-   <source src="working.mp4" type=video/mp4>
- </video>
+ ![](video.mp4)
 
