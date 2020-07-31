@@ -7,3 +7,5 @@
  
 ![ezgif com-video-to-gif](https://github.com/Spring-dot/SnapShot/blob/master/working.gif)
 
+You can make as many submission to just my clicking 'add snapshot' and filling all fields with valid format.
+
